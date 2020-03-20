@@ -1,0 +1,100 @@
+Graph 1: Score: 8710; Leaf Nodes Examined: 34
+
+Graph 2: Score: 8577; Leaf Nodes Examined: 56
+
+Graph 3: Score: 9012; Leaf Nodes Examined: 75
+
+Graph 4: Score: 8524; Leaf Nodes Examined: 29
+
+Graph 5: Score: 9316; Leaf Nodes Examined: 48
+
+Graph 6: Score: 9866; Leaf Nodes Examined: 233
+
+Graph 7: Score: 9606; Leaf Nodes Examined: 70
+
+Graph 8: Score: 9642; Leaf Nodes Examined: 130
+
+Graph 9: Score: 9603; Leaf Nodes Examined: 116
+
+Graph 10: Score: 512; Leaf Nodes Examined: 43
+
+Graph 11: Score: 508; Leaf Nodes Examined: 144
+
+Graph 12: Score: 511; Leaf Nodes Examined: 180
+
+Graph 13: Score: 510; Leaf Nodes Examined: 133
+
+Graph 14: Score: 913; Leaf Nodes Examined: 147
+
+Graph 15: Score: 967; Leaf Nodes Examined: 139
+
+Graph 16: Score: 1022; Leaf Nodes Examined: 83
+
+Graph 17: Score: 629; Leaf Nodes Examined: 51
+
+Graph 18: Score: 1007; Leaf Nodes Examined: 78
+
+Graph 19: Score: 1015; Leaf Nodes Examined: 142
+
+Graph 20: Score: 789; Leaf Nodes Examined: 85
+
+Graph 21: Score: 1023; Leaf Nodes Examined: 162
+
+Graph 22: Score: 1022; Leaf Nodes Examined: 74
+
+Graph 23: Score: 995; Leaf Nodes Examined: 118
+
+Graph 24: Score: 768; Leaf Nodes Examined: 56
+
+Graph 25: Score: 99691; Leaf Nodes Examined: 384
+
+Graph 26: Score: 98990; Leaf Nodes Examined: 305
+
+Graph 27: Score: 65028; Leaf Nodes Examined: 255
+
+Graph 28: Score: 40119; Leaf Nodes Examined: 214
+
+Graph 29: Score: 79898; Leaf Nodes Examined: 103
+
+Graph 30: Score: 214; Leaf Nodes Examined: 15
+
+Graph 31: Score: 100; Leaf Nodes Examined: 12
+
+Graph 32: Score: 239; Leaf Nodes Examined: 16
+
+Graph 33: Score: 133; Leaf Nodes Examined: 6
+
+Graph 34: Score: 180; Leaf Nodes Examined: 12
+
+Graph 35: Score: 181; Leaf Nodes Examined: 9
+
+Graph 36: Score: 645; Leaf Nodes Examined: 10
+
+Graph 37: Score: 537; Leaf Nodes Examined: 7
+
+Graph 38: Score: 518; Leaf Nodes Examined: 8
+
+Graph 39: Score: 687; Leaf Nodes Examined: 9
+
+Graph 40: Score: 737; Leaf Nodes Examined: 6
+
+Graph 41: Score: 500; Leaf Nodes Examined: 19
+
+Graph 42: Score: 511; Leaf Nodes Examined: 53
+
+Graph 43: Score: 497; Leaf Nodes Examined: 57
+
+Graph 44: Score: 490; Leaf Nodes Examined: 33
+
+Graph 45: Score: 349; Leaf Nodes Examined: 33
+
+Graph 46: Score: 32; Leaf Nodes Examined: 28
+
+Graph 47: Score: 19; Leaf Nodes Examined: 37
+
+Graph 48: Score: 32; Leaf Nodes Examined: 58
+
+Graph 49: Score: 17; Leaf Nodes Examined: 28
+
+Graph 50: Score: 22; Leaf Nodes Examined: 41
+
